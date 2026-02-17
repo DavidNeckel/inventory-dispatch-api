@@ -1,0 +1,19 @@
+# Build
+bin/
+obj/
+
+# VS / Rider
+.vs/
+.idea/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
